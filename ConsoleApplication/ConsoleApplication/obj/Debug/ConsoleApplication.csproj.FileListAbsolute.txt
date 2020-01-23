@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Admin\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Admin\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Admin\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Admin\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
