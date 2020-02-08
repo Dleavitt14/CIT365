@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk-Leavitt.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk_Leavitt.AddQuote.resources
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk_Leavitt.DisplayQuote.resources
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk_Leavitt.MainMenu.resources
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk_Leavitt.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk_Leavitt.SearchQuotes.resources
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk_Leavitt.ViewAllQuotes.resources
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk-Leavitt.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\bin\Debug\MegaDesk-Leavitt.exe.config
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\bin\Debug\MegaDesk-Leavitt.exe
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\bin\Debug\MegaDesk-Leavitt.pdb
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk-Leavitt.exe
+C:\Users\Admin\Documents\GitHub\CIT365\MegaDesk-Leavitt\MegaDesk-Leavitt\obj\Debug\MegaDesk-Leavitt.pdb
